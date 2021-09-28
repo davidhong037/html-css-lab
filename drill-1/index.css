@@ -1,0 +1,22 @@
+.top {
+    height: 15vh;
+    width: 100vw;
+    background-color: darkgray
+}
+
+.bottom {
+    background-color: gray;
+    padding-left: 15vw;
+}
+
+.middle-top {
+    background-color: white;
+    width: 70vw;
+    height: 70vh;
+}
+
+.middle-bottom {
+    width: 70vw;
+    height: 15vh;
+    background-color: black;
+}
